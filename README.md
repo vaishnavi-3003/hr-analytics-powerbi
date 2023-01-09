@@ -4,4 +4,4 @@ Created several reports with information on following factors which will help th
 - Overview- total employees, active employees, inactive employees, attrition rate, etc.
 - Demographics- age, gender, ethnicity, seniority, etc.
 - Performance Tracker- job satisfaction, environment satisfaction, self rating, manager rating, etc.
-- Attrition- attrition on the basis of tenure, overtime requirement, job role, etc.
+- Attrition- attrition rate on the basis of tenure, overtime requirement, job role, etc.
